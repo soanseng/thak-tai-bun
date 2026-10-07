@@ -1,3 +1,5 @@
+> 本專案已併入 [soanseng/rime-phah-taibun](https://github.com/soanseng/rime-phah-taibun)（docs/thak/），網站搬去 https://taigi.anatomind.com/thak/ 。
+
 # 讀台文 Tha̍k Tâi-bûn
 
 漢羅 ⇄ 台羅 TL／白話字 POJ 一頁式網頁：貼漢羅文章即時轉出台羅（TL）佮白話字（POJ）雙軌對照，點漢字換讀音，做拼音練習、查詞彙——攏免安裝、免後端。
